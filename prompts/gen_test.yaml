@@ -1,0 +1,7 @@
+instructions:
+  - Generate Google Test unit tests for the given C++ code
+  - Add all relevant #include statements
+  - Ensure tests cover edge cases and common logic paths
+  - Do not use duplicate test cases
+  - Use TEST or TEST_F macros properly
+  - Output only the test code
